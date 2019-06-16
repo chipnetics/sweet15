@@ -3,6 +3,7 @@
 
 **View this project writeup at www.chipnetics.com/projects/hw/sweet15/**
 
+_SCHEMATIC (.dch) and PCB (.dip) require Diptrace_
 
 The Sweet15 is a retro gamer’s dream, especially for those who are always on the hunt for modern monitors that support 240p, otherwise known as 15khz… or 15.734264Khz if you’re a die-hard fan of gaming! I created it as I was always buying up older monitors, rushing home to hook them up, and then finding out they don’t support 240p. Bummer!
 
