@@ -5,6 +5,8 @@
 
 _SCHEMATIC (.dch) and PCB (.dip) require Diptrace_
 
+_This work is released under: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)_
+
 The Sweet15 is a retro gamer’s dream, especially for those who are always on the hunt for modern monitors that support 240p, otherwise known as 15khz… or 15.734264Khz if you’re a die-hard fan of gaming! I created it as I was always buying up older monitors, rushing home to hook them up, and then finding out they don’t support 240p. Bummer!
 
 Easily portable and powered by a button cell battery, the Sweet15 allows you to connect to the 15-pin D-Sub connector of any monitor and run various test patterns to ensure the monitor can sync down to 15khz, has no dead/burnt pixels, identify scanline boundaries, and more.
